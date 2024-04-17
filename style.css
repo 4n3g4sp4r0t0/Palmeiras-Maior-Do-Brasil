@@ -1,6 +1,12 @@
 h1 {color: darkgreen;
     text-align: center;
 }
+h2 {color: darkgreen;
+    text-align: center;
+    border-width: 8px;
+border-color: darkgreen;
+border-style:solid;
+}
 #palmeiras1 {border-width: 8px;
 border-color: darkgreen;
 border-style:solid;
