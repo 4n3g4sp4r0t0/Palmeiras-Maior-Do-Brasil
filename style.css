@@ -1,1 +1,9 @@
-h1 {color: darkgreen;}
+h1 {color: darkgreen;
+    text-align: center;
+}
+#palmeiras1 {border-width: 8px;
+border-color: darkgreen;
+border-style:solid;
+}
+#palmeiras1 {margin-left: 500px;}
+#palmeiras1 {width: 400px;}
